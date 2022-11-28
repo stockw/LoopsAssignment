@@ -1,5 +1,5 @@
 
 
-for(i=0; i<=15; i++){
+for(i=15; i>=0; i--){
     console.log(i)
 }
